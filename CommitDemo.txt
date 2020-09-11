@@ -1,0 +1,1 @@
+This file will demonstrate the commitment command for the lab.
